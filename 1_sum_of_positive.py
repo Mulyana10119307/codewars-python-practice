@@ -1,6 +1,4 @@
-"""
-day 1/366 codewars
-"""
+#day 1/366 codewars
 
 def positive_sum(arr):
     # Your code here
